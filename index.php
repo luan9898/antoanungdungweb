@@ -121,7 +121,7 @@ if ($title == "") $title = 'Danh sách công việc';
                     <tr>
 
                         <td>© 2019 Học viện kĩ thuật mật mã.</td>
-                        <td>CLC01. Hoang Thi Quynh Anh - Hoang Dang Luan.</td>
+                        <td>CLC01. Hoang Luan.</td>
 
                     </tr>
                 </table>
