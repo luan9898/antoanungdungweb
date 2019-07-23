@@ -1,0 +1,30 @@
+.tablebg {
+	background-color: #D3D8DB;
+	color: #000000;
+}
+.row2
+{ 
+color: #03C;
+}
+
+.row1 {
+	background-color: white;
+	padding: 4px;
+	border: outset 1px;
+}
+.tieudeds {
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+	background-color: #09F;
+}
+#tieude2 { 
+    color:#EC3535;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+ 
+}
